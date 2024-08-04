@@ -1,0 +1,2 @@
+# Manipal-Blog
+registration site
